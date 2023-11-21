@@ -14,7 +14,6 @@
 
 <h1 align="center">Hi 👋, I'm Lidsana</h1>
 <h3 align="center">Non Stop Learning Codeding ~</h3>
-<h3>Caption : You Can Do it Everything but you don't give up,Believe in yourself and have faith in your abilities</h3>
 
 
 <h3 align="left">🛠 Language and tools</h3>
