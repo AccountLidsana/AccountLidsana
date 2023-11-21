@@ -21,7 +21,7 @@
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,jquery,php,laravel,mysql,vite,vscode,postman" />
 
-
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatform.pyronome.com%2Fpyronome%2Fadminlte-3x-htmldbjs-1x-laravel-6x&psig=AOvVaw2In3rUOj0XeBYpW1kItv_p&ust=1700680670283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDN0avn1YIDFQAAAAAdAAAAABAE">
   </a>
 
   
