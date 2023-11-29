@@ -11,17 +11,3 @@
 <h1 align="center">Hi 👋, I'm Lidsana</h1>
 <h3 align="center">Non Stop Learning Codeding ~</h3>
 
-
-<h3 align="left">🛠 Language and tools</h3>
-<p align="left">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,jquery,php,laravel,mysql,nodejs,vite,vscode,postman" />
-
-  </a>
-
-  
-</p>
-
-</div>
-
-###
